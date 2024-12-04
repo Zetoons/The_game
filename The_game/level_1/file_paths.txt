@@ -1,0 +1,2 @@
+level_1/positions.txt
+level_1/player/player_save.txt

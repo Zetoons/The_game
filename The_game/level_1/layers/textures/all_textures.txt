@@ -1,0 +1,4 @@
+placeholder.png
+yes.png
+crate.png
+chess_board.png

@@ -1,0 +1,23 @@
+﻿  main.cpp
+E:\1.Projects\1.Sfml Games\Game_source\Construector_demo\Cell_SaveLoader.h(43,17): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+E:\1.Projects\1.Sfml Games\Game_source\Construector_demo\Cell_SaveLoader.h(45,17): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+E:\1.Projects\1.Sfml Games\Game_source\Construector_demo\Cell_SaveLoader.h(47,17): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+E:\1.Projects\1.Sfml Games\Game_source\Construector_demo\Cell_SaveLoader.h(49,17): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+E:\1.Projects\1.Sfml Games\Game_source\Construector_demo\Cell_SaveLoader.h(52,26): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+E:\1.Projects\1.Sfml Games\Game_source\Construector_demo\main.cpp(187,28): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+E:\1.Projects\1.Sfml Games\Game_source\Construector_demo\main.cpp(196,30): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+E:\1.Projects\1.Sfml Games\Game_source\Construector_demo\main.cpp(207,6): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+E:\1.Projects\1.Sfml Games\Game_source\Construector_demo\main.cpp(234,21): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+E:\1.Projects\1.Sfml Games\Game_source\Construector_demo\main.cpp(235,21): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+E:\1.Projects\1.Sfml Games\Game_source\Construector_demo\main.cpp(291,28): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+LINK : fatal error LNK1104: не удается открыть файл "E:\1.Projects\1.Sfml Games\Game_source\x64\Release\Construector_demo.exe"
